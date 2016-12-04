@@ -11,6 +11,7 @@ The team is formed from people coming from significatly different areas of arts,
 
 ## What
 
+[logo]: https://github.com/HackTheBrain/brain-worm/blob/master/worm_pics/P1070909.JPG
 The kinetic worm can move and breathe using its pneumatic mussels made of 24 tires. Extra eight tires are constantly inflated and form a sculpture skeleton. 
 
 Solenoid valves are connected to a computer interface such that a synchronous patterns of movements can be created within [VVVV](https://vvvv.org/) environtment. The IDE can alse recieve UDP messages from realtime EEG analysis tools. OpenVibe and PureData are used and tested in our project.
