@@ -16,6 +16,13 @@ The team is formed from people coming from significatly different areas of arts,
 A kinetic worm needs your attention! Once it realizes you are concentrating it will use pneumatic mussels and move. On the other hand, if you are not focused enought the worm stops moving and starts breathe frequently. The level of your attention is measured via electrical brain waves (EEG). 
 
 ## Why
+
+**Author**
+A couple years ago I started thinking about creation of aoy for my doughter. I was interested in making a toy addressing rather abstract form of the world. This realy changed my approach to the sculpturing. The brain worm exhibits slow movements whitch look like a micro-oragnism or a whale on the other side.
+
+**engineer**
+Working on this project, its...
+
 jako sochar a muzikant jsem v roce 2009 pracoval na objektech, ktere by propojovaly media jako jsou divadlo, hudba, socha a uzite umeni. tyto tendence vznikly na zaklade skusenosti, ktere jsem ziskal z tvorby hudby k divadelnim predstaveni, socharske prace a jakozto cerstvi otec z uvah o moznych podobach hracky ktera by nezobrayovala vice ci mene stilizovanou skutecnost ale spise abstraktni formy. tyto snahy vyustily  ke vzniku 40ti centimetrovehu dreveneho obektu/loutky slozeneho ze sumy ruzne velkych clanku, ktera pri pohybu vydavala rozmanite zvuky.Po vytvoreni techto obektu ma tvorba nabrala jiny smer a monumentalnejsi rozmery. az v poslednim roce jsem se k tomuto konceptu vratil. brain vorm svym pomalim pohybem evokuje jakousi smes plejtvaka a mikroorganizmu jeho anatomie spis odpovida jednoduchym 
 
 
