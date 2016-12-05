@@ -37,4 +37,4 @@ Once the participant acceeds same treshold of the parameter VVVV drives the worm
 
 
 ## Ethical considerations
-The brainworm informed audience (via its movements) about participants state of conscisiones. This could cause a hypothetical social issue during or after the performance. On the other hand, we could inform participans were before the begining of their trial.
+The brainworm informed audience (via its movements) about participants state of consciousness. This could cause a hypothetical social issue during or after the performance. On the other hand, we could inform participants were before the beginning of their trial.
