@@ -1,0 +1,77 @@
+#N canvas 453 66 588 611 10;
+#X declare -lib mrpeach;
+#X obj -1885 -521 import mrpeach;
+#X msg -1784 -406 0;
+#X floatatom -1789 -345 5 0 0 0 - - -;
+#X floatatom -1789 -295 5 0 0 0 - - -;
+#X floatatom -1714 -295 5 0 0 0 - - -;
+#X obj -1789 -321 rewardALFAhtb;
+#X obj -1749 -404 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -1873 -263 <;
+#X obj -1834 -264 >;
+#X floatatom -1873 -241 3 0 0 0 - - -;
+#X floatatom -1834 -242 3 0 0 0 - - -;
+#X obj -1887 -468 unpackOSC;
+#X obj -1682 -351 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -1649 -330 counter;
+#X floatatom -1633 -282 5 0 0 0 - - -;
+#X floatatom -1701 -404 5 0 0 0 - - -;
+#X msg -1619 -404 0;
+#X msg -1654 -404 100;
+#X obj -1584 -402 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -1700 -429 routeOSC /openvibe1;
+#X obj -1865 -431 routeOSC /alpha;
+#X msg -1819 -406 10000;
+#X obj -1834 -64 udpsend;
+#X obj -1804 -102 packOSC;
+#X msg -1856 -154 disconnect;
+#X obj -1880 -51 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+1 1;
+#X floatatom -1764 -71 5 0 0 0 - - -;
+#X floatatom -1683 -86 5 0 0 0 - - -;
+#X obj -1887 -496 udpreceive 9005;
+#X obj -1564 -184 select 1;
+#X obj -1561 -140 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -1508 -137 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X msg -1742 -127 send /test 1;
+#X msg -1592 -93 send /test 0;
+#X msg -1895 -177 connect 127.0.0.1 9001;
+#X obj -1663 -181 select 2;
+#X connect 2 0 5 0;
+#X connect 2 0 7 0;
+#X connect 2 0 8 0;
+#X connect 3 0 8 1;
+#X connect 3 0 7 1;
+#X connect 5 0 3 0;
+#X connect 5 1 4 0;
+#X connect 7 0 9 0;
+#X connect 8 0 10 0;
+#X connect 9 0 29 0;
+#X connect 10 0 35 0;
+#X connect 11 0 19 0;
+#X connect 11 0 20 0;
+#X connect 12 0 13 0;
+#X connect 13 0 14 0;
+#X connect 19 0 15 0;
+#X connect 19 1 18 0;
+#X connect 20 0 12 0;
+#X connect 20 0 2 0;
+#X connect 20 1 6 0;
+#X connect 22 0 25 0;
+#X connect 23 0 22 0;
+#X connect 23 0 27 0;
+#X connect 23 1 26 0;
+#X connect 24 0 22 0;
+#X connect 28 0 11 0;
+#X connect 29 1 31 0;
+#X connect 30 0 32 0;
+#X connect 31 0 33 0;
+#X connect 32 0 23 0;
+#X connect 33 0 23 0;
+#X connect 34 0 22 0;
+#X connect 35 1 30 0;

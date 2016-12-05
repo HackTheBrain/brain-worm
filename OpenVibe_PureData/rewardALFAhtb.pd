@@ -1,0 +1,38 @@
+#N canvas 742 1 575 419 10;
+#X obj 220 59 inlet;
+#X floatatom 221 85 5 0 0 0 - - -;
+#X obj 182 179 mean;
+#X floatatom 182 218 5 0 0 0 - - -;
+#X floatatom 203 200 5 0 0 0 - - -;
+#X obj 269 218 sd;
+#X floatatom 269 238 5 0 0 0 - - -;
+#X obj 248 111 NFcounterHTB;
+#X floatatom 248 138 5 0 0 0 - - -;
+#X obj 282 139 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X msg 282 161 clear;
+#X obj 182 241 spigot;
+#X floatatom 182 265 5 0 0 0 - - -;
+#X obj 317 139 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 182 292 outlet;
+#X obj 269 293 outlet;
+#X connect 0 0 1 0;
+#X connect 1 0 7 0;
+#X connect 1 0 2 0;
+#X connect 1 0 5 0;
+#X connect 2 0 3 0;
+#X connect 2 1 4 0;
+#X connect 3 0 11 0;
+#X connect 5 0 6 0;
+#X connect 6 0 15 0;
+#X connect 7 0 8 0;
+#X connect 7 1 9 0;
+#X connect 7 2 13 0;
+#X connect 8 0 5 1;
+#X connect 8 0 11 1;
+#X connect 9 0 10 0;
+#X connect 10 0 2 0;
+#X connect 11 0 12 0;
+#X connect 12 0 14 0;
+#X connect 13 0 5 2;
