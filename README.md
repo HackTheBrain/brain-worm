@@ -13,7 +13,7 @@ The team is formed of people coming from significatly different areas of arts, e
 
 ![alt text](https://github.com/HackTheBrain/brain-worm/blob/master/worm_pics/P1070909.JPG "A kinetic worm")
 
-A kinetic worm needs your attention! Once it realizes you are concentrated it will use pneumatic muscles and move. If you are not focused enought the worm stops moving and starts breathe frequently. The level of your concentration is measured via electrical brain waves (EEG). 
+A kinetic worm needs your attention! Once it realizes you are concentrated it will use pneumatic muscles and move. If you are not focused enough the worm stops moving and starts breathe frequently. The level of your concentration is measured via electrical brain waves (EEG). 
 
 ## Why
 
@@ -29,11 +29,11 @@ Slow and big pneumatic kinetic worm which would move in accordance to very fast 
 
 The kinetic worm can move and breathe using its pneumatic mussels made of 24 tires. Extra eight tires are constantly inflated and form a sculpture skeleton. 
 
-Solenoid valves are connected to a computer interface such that a synchronous patterns of movements can be created within [VVVV](https://vvvv.org/) environtment. The IDE can alse recieve UDP messages from realtime EEG analysis tools. OpenVibe and PureData are used and tested in our project.
+Solenoid valves are connected to a computer interface such that a synchronous patterns of movements can be created within [VVVV](https://vvvv.org/) environtment. The IDE can also receive UDP messages from real-time EEG analysis tools. OpenVibe and PureData are used and tested in our project.
 
-OpenVibe is connected to NeuroSky Mindwave mobile device and further alyzes the eeg stream to obtain a robust eeg marker of participants concentration. Relative frontal alpha power was chosen to measure a level of concentration. 
+OpenVibe is connected to NeuroSky Mindwave mobile device and further analyzes the eeg stream to obtain a robust eeg marker of participants concentration. Relative frontal alpha power was chosen to measure a level of concentration. 
 
-Once the participant acceeds same treshold of the parameter VVVV drives the worm in a sequence of movements.
+Once the participant reach same threshold of the EEG parameter VVVV drives the worm in a sequence of movements. If the concentration drops below the threshold VVVV drives the worm to simulate fast breathing.
 
 
 ## Ethical considerations
