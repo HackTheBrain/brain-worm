@@ -19,7 +19,7 @@ A kinetic worm needs your attention! Once it realizes you are concentrated it wi
 
 **A sculpturer**
 
-A couple years ago I started creating a toy for my recently born daughter. Generally, I was interested in objects addressing rather the abstract form of the world. Thus, I designed a wooden puppet consisting of several various pieces which also made sounds when it was moved. This really changed my approach to the sculpturing and it has been influencing me even now. One of such abstract objets is also a brain worm designed for hackathon event. The brain worm consists of many segments exhibiting slow movements which look like a micro-organism or a big whale from a different perspective.
+A couple years ago I started creating a toy for my recently born daughter. Generally, I was interested in objects addressing rather the abstract form of the world. Thus, I designed a wooden puppet consisting of several various pieces which also made sounds when it was moved. This really changed my approach to the sculpturing and it has been influencing me even now. One of such abstract objets is also a brain worm designed for hackathon event. The brain worm consists of many segments exhibiting slow movements which look like a micro-organism or a big whale if looking from a different perspective.
 
 **An engineer**
 
