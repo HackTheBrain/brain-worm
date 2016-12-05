@@ -2,7 +2,7 @@
 
 ## Who
 
-The team is formed from people coming from significatly different areas of arts, engineering, and psychology:
+The team is formed of people coming from significatly different areas of arts, engineering, and psychology:
 
 * **Krystof Kaplan** is an artist and author of kinetic sculpture designed for BCI, neuro-feedback, and for exploring new ways of movement.
 * **Vlastimil Koudelka** is an engineer and researcher in neuro-imaging, machine learning, and optimization
@@ -13,17 +13,16 @@ The team is formed from people coming from significatly different areas of arts,
 
 ![alt text](https://github.com/HackTheBrain/brain-worm/blob/master/worm_pics/P1070909.JPG "A kinetic worm")
 
-A kinetic worm needs your attention! Once it realizes you are concentrating it will use pneumatic mussels and move. On the other hand, if you are not focused enought the worm stops moving and starts breathe frequently. The level of your attention is measured via electrical brain waves (EEG). 
+A kinetic worm needs your attention! Once it realizes you are concentrated it will use pneumatic muscles and move. If you are not focused enought the worm stops moving and starts breathe frequently. The level of your concentration is measured via electrical brain waves (EEG). 
 
 ## Why
 
-**Author**
-A couple years ago I started thinking about creation of aoy for my doughter. I was interested in making a toy addressing rather abstract form of the world. This realy changed my approach to the sculpturing. The brain worm exhibits slow movements whitch look like a micro-oragnism or a whale on the other side.
+**A sculpturer**
 
-**engineer**
-Working on this project, its...
+A couple years ago I started creating a toy for my recently born daughter. Generally, I was interested in objects addressing rather the abstract form of the world. Thus, I designed a wooden puppet consisting of several various pieces which also made sound when it was moved. This really changed my approach to the sculpturing and it has been influencing me even now. A particular example of my object is the brain worm designed for hackathon event. The brain worm consists of many segments exhibiting slow movements which look like a micro-organism or a big whale if you look at it from a different perspectives.
 
-jako sochar a muzikant jsem v roce 2009 pracoval na objektech, ktere by propojovaly media jako jsou divadlo, hudba, socha a uzite umeni. tyto tendence vznikly na zaklade skusenosti, ktere jsem ziskal z tvorby hudby k divadelnim predstaveni, socharske prace a jakozto cerstvi otec z uvah o moznych podobach hracky ktera by nezobrayovala vice ci mene stilizovanou skutecnost ale spise abstraktni formy. tyto snahy vyustily  ke vzniku 40ti centimetrovehu dreveneho obektu/loutky slozeneho ze sumy ruzne velkych clanku, ktera pri pohybu vydavala rozmanite zvuky.Po vytvoreni techto obektu ma tvorba nabrala jiny smer a monumentalnejsi rozmery. az v poslednim roce jsem se k tomuto konceptu vratil. brain vorm svym pomalim pohybem evokuje jakousi smes plejtvaka a mikroorganizmu jeho anatomie spis odpovida jednoduchym 
+**A engineer**
+
 
 
 ## How
