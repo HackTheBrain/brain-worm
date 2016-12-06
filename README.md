@@ -35,7 +35,7 @@ Solenoid valves are connected to a computer interface such that synchronous patt
 
 OpenVibe is connected to NeuroSky Mindwave mobile device and further analyzes the eeg stream to obtain a robust eeg marker of participants concentration. Relative frontal alpha power was chosen to measure a level of concentration. 
 
-Once the participant reach same threshold of the EEG parameter VVVV drives the worm in a sequence of movements. If the concentration drops below the threshold VVVV drives the worm to simulate fast breathing.
+Once the participant reach some threshold of the EEG parameter VVVV drives the worm in a sequence of movements. If the concentration drops below the threshold VVVV drives the worm to simulate fast breathing.
 
 
 ## Ethical considerations
