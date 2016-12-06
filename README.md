@@ -5,9 +5,9 @@
 The team is formed of people coming from significatly different areas of arts, engineering, and psychology:
 
 * [**Krystof Kaplan**](http://artalk.cz/tag/krystof-kaplan/) is an artist and also the author of kinetic worm designed for BCI, neuro-feedback, and for exploring new ways of movement.
-* **Vlastimil Koudelka** is an engineer and researcher in neuro-imaging, machine learning, and optimization
-* **Dmitri Berzon** is a Concept developer / Light designer, Programmer, Conceptual artist specializing in interactive installations
-* **Cyril Kaplan** is a psychologist specializing on EEG correlates of mental and emotional activity, music producer, openVibe and PD programmer. 
+* [**Vlastimil Koudelka**](http://www.nudz.cz/en/employee/?id=497) is an engineer and researcher in neuro-imaging, machine learning, and optimization
+* [**Dmitri Berzon**](http://www.lunchmeat.cz/en/events/lunchmeat-festival-2014-173/artists/dimitri-berzon--ru---frances-sander--uk--visual--211.html) is a Concept developer / Light designer, Programmer, Conceptual artist specializing in interactive installations
+* [**Cyril Kaplan**](https://www.researchgate.net/publication/300082527_Personal_Conceptions_of_Death_in_Young_Czech_Adults) is a psychologist specializing on EEG correlates of mental and emotional activity, music producer, openVibe and PD programmer. 
 
 Many thanks go to **Martin Zrzek** who programmed a VVVV sequencer to record, read, and play the worm movements.
 
