@@ -25,7 +25,7 @@ A couple years ago I started creating a toy for my recently born daughter. Gener
 
 **An engineer**
 
-Slow and big pneumatic kinetic worm which would move in accordance to very fast and noisy changes in human EEG signal seemed to me an impossible goal with unclear outcomes. It was the reason why I joined to Krystof and started working. A couple years ago I studied automation so that I could formulate the brain worm as a soft-robot. I was really interested in what is possible to do with the worm, how it can move, and which parameters from EEG would correspond to the worm dynamics. The process of making the worm alive began form the physical layer (basic muscle patterns) and then more and more abstract layers could be added. This resulted in rather a specific set of EEG parameters which could be used. 
+Slow and big pneumatic kinetic worm which would move in accordance to very fast and noisy changes in human EEG signal seemed to me an impossible goal with unclear outcomes. This challanging idea driven me to join in the project. A couple years ago I studied automation so that I could formulate the brain worm as a soft-robot. I was really interested in what is possible to do with the worm, how it can move, and which parameters from EEG would correspond to the worm dynamics. The process of making the worm alive began form the physical layer (basic muscle patterns) and then more and more abstract layers could be added. This resulted in rather a specific set of EEG parameters which could be used. 
 
 ## How
 
