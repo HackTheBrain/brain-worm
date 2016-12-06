@@ -9,6 +9,8 @@ The team is formed of people coming from significatly different areas of arts, e
 * **Dmitri Berzon** is a Concept developer / Light designer, Programmer, Conceptual artist specializing in interactive installations
 * **Cyril Kaplan** is a psychologist specializing on EEG correlates of mental and emotional activity, music producer, openVibe and PD programmer. 
 
+Many thanks go to **Martin Zrzek** who programmed a VVVV sequencer to record, read, and play the worm movements.
+
 ## What
 
 ![alt text](https://github.com/HackTheBrain/brain-worm/blob/master/worm_pics/P1070909.JPG "A kinetic worm")
