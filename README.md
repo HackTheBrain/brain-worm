@@ -4,7 +4,7 @@
 
 The team is formed of people coming from significatly different areas of arts, engineering, and psychology:
 
-* **Krystof Kaplan** is an artist and also the author of kinetic worm designed for BCI, neuro-feedback, and for exploring new ways of movement.
+* [**Krystof Kaplan**](http://artalk.cz/tag/krystof-kaplan/) is an artist and also the author of kinetic worm designed for BCI, neuro-feedback, and for exploring new ways of movement.
 * **Vlastimil Koudelka** is an engineer and researcher in neuro-imaging, machine learning, and optimization
 * **Dmitri Berzon** is a Concept developer / Light designer, Programmer, Conceptual artist specializing in interactive installations
 * **Cyril Kaplan** is a psychologist specializing on EEG correlates of mental and emotional activity, music producer, openVibe and PD programmer. 
