@@ -31,7 +31,7 @@ Slow and big pneumatic kinetic worm which would move in accordance to very fast 
 
 The kinetic worm can move and breathe using its pneumatic muscles made of 24 tires. Extra eight tires are constantly inflated and form a sculpture skeleton. 
 
-Solenoid valves are connected to a computer interface such that synchronous patterns of movements can be created within [VVVV](https://vvvv.org/) environtment. The IDE can also receive UDP messages from real-time EEG analysis tools. OpenVibe and PureData are used and tested in our project.
+Solenoid valves are connected to a computer interface such that synchronous patterns of movements can be created within [VVVV](https://vvvv.org/) environtment. The IDE can also receive UDP messages from real-time EEG analysis tools. [OpenVibe](http://openvibe.inria.fr/) and [PureData](https://puredata.info/) are used and tested in our project.
 
 OpenVibe is connected to NeuroSky Mindwave mobile device and further analyzes the eeg stream to obtain a robust eeg marker of participants concentration. Relative frontal alpha power was chosen to measure a level of concentration. 
 
