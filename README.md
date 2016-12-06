@@ -39,4 +39,4 @@ Once the participant reach same threshold of the EEG parameter VVVV drives the w
 
 
 ## Ethical considerations
-The brainworm informed audience (via its movements) about participants state of consciousness. This could cause a hypothetical social issue during or after the performance. On the other hand, we could inform participants were before the beginning of their trial.
+The brainworm informed audience (via its movements) about participants state of consciousness. This could cause a hypothetical social issue during or after the performance. On the other hand, we could inform participants before the beginning of their trial.
