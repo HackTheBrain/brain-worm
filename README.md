@@ -27,7 +27,7 @@ Slow and big pneumatic kinetic worm which would move in accordance to very fast 
 
 ## How
 
-The kinetic worm can move and breathe using its pneumatic mussels made of 24 tires. Extra eight tires are constantly inflated and form a sculpture skeleton. 
+The kinetic worm can move and breathe using its pneumatic muscles made of 24 tires. Extra eight tires are constantly inflated and form a sculpture skeleton. 
 
 Solenoid valves are connected to a computer interface such that a synchronous patterns of movements can be created within [VVVV](https://vvvv.org/) environtment. The IDE can also receive UDP messages from real-time EEG analysis tools. OpenVibe and PureData are used and tested in our project.
 
